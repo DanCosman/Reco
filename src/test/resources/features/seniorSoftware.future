@@ -1,0 +1,12 @@
+@screen
+Feature:SeniorSoftware
+  Scenario: SeniorSoftware successfully
+    Given I open "http://recogroup.co.uk/"
+    And I wait 1 seconds
+    And I click on link with text Latest  Vacancies
+    And  I wait 1 seconds
+    And I click on link with text Senior Software Developer in Test
+    And I wait 1 seconds
+    And I fill in all fields for Apply for this job
+    And I wait 10 seconds
+

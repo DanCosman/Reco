@@ -1,0 +1,683 @@
+10:09:37 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:09:37 INFO : InitDriver - ===============================================================
+10:09:37 INFO : InitDriver - |          Environment : ft
+10:09:37 INFO : InitDriver - |          Operating System : Windows 10
+10:09:37 INFO : InitDriver - |          Browser: chrome
+10:09:37 INFO : InitDriver - |          Browser config file: chrome.properties
+10:09:37 INFO : InitDriver - ===============================================================
+
+10:09:37 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:09:37 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:09:37 INFO : WebDriverConfig - Browser is: chrome
+10:09:37 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:09:37 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:09:43 INFO : WebDriverConfig - ===============================================================
+10:09:43 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:09:43 INFO : WebDriverConfig - ===============================================================
+
+10:09:53 ERROR: WebLocatorDriverExecutor - WebDriverException in doClick: Contact
+10:09:53 WARN : Hooks - "Register Successful" scenario has failed! Screenshot embedded in the report.
+10:09:54 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:09:54 INFO : WebDriverConfig - ===============================================================
+10:09:54 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:09:54 INFO : WebDriverConfig - ===============================================================
+10:09:56 DEBUG: WebDriverConfig - ===============================================================
+10:09:56 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:09:56 DEBUG: WebDriverConfig - ===============================================================
+
+10:10:53 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:10:53 INFO : InitDriver - ===============================================================
+10:10:53 INFO : InitDriver - |          Environment : ft
+10:10:53 INFO : InitDriver - |          Operating System : Windows 10
+10:10:53 INFO : InitDriver - |          Browser: chrome
+10:10:53 INFO : InitDriver - |          Browser config file: chrome.properties
+10:10:53 INFO : InitDriver - ===============================================================
+
+10:10:53 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:10:53 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:10:53 INFO : WebDriverConfig - Browser is: chrome
+10:10:53 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:10:53 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:10:58 INFO : WebDriverConfig - ===============================================================
+10:10:58 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:10:58 INFO : WebDriverConfig - ===============================================================
+
+10:11:09 INFO : WebLocator - click on Contact
+10:11:09 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:11:09 INFO : WebDriverConfig - ===============================================================
+10:11:09 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:11:09 INFO : WebDriverConfig - ===============================================================
+10:11:10 DEBUG: WebDriverConfig - ===============================================================
+10:11:10 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:11:10 DEBUG: WebDriverConfig - ===============================================================
+
+10:15:44 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:15:44 INFO : InitDriver - ===============================================================
+10:15:44 INFO : InitDriver - |          Environment : ft
+10:15:44 INFO : InitDriver - |          Operating System : Windows 10
+10:15:44 INFO : InitDriver - |          Browser: chrome
+10:15:44 INFO : InitDriver - |          Browser config file: chrome.properties
+10:15:44 INFO : InitDriver - ===============================================================
+
+10:15:44 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:15:44 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:15:44 INFO : WebDriverConfig - Browser is: chrome
+10:15:44 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:15:44 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:15:47 INFO : WebDriverConfig - ===============================================================
+10:15:47 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:15:47 INFO : WebDriverConfig - ===============================================================
+
+10:15:55 INFO : WebLocator - click on Contact
+10:16:01 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; @placeholder=your-name
+10:16:01 DEBUG: WebLocatorDriverExecutor - 	$x("//input[@placeholder='your-name']")
+10:16:01 DEBUG: WebLocatorSuggestions - getSuggestion >> enter
+10:16:10 DEBUG: WebLocatorSuggestions - No suggestions found for @placeholder=your-name
+10:16:10 DEBUG: WebLocatorSuggestions - getSuggestion << exit
+10:16:10 WARN : Hooks - "Register Successful" scenario has failed! Screenshot embedded in the report.
+10:16:11 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:16:11 INFO : WebDriverConfig - ===============================================================
+10:16:11 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:16:11 INFO : WebDriverConfig - ===============================================================
+10:16:12 DEBUG: WebDriverConfig - ===============================================================
+10:16:12 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:16:12 DEBUG: WebDriverConfig - ===============================================================
+
+10:16:44 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:16:44 INFO : InitDriver - ===============================================================
+10:16:44 INFO : InitDriver - |          Environment : ft
+10:16:44 INFO : InitDriver - |          Operating System : Windows 10
+10:16:44 INFO : InitDriver - |          Browser: chrome
+10:16:44 INFO : InitDriver - |          Browser config file: chrome.properties
+10:16:44 INFO : InitDriver - ===============================================================
+
+10:16:44 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:16:44 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:16:44 INFO : WebDriverConfig - Browser is: chrome
+10:16:44 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:16:44 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:16:47 INFO : WebDriverConfig - ===============================================================
+10:16:47 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:16:47 INFO : WebDriverConfig - ===============================================================
+
+10:16:56 ERROR: WebLocatorDriverExecutor - WebDriverException in doClick: Contact
+10:16:56 WARN : Hooks - "Register Successful" scenario has failed! Screenshot embedded in the report.
+10:16:56 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:16:56 INFO : WebDriverConfig - ===============================================================
+10:16:56 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:16:56 INFO : WebDriverConfig - ===============================================================
+10:16:58 DEBUG: WebDriverConfig - ===============================================================
+10:16:58 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:16:58 DEBUG: WebDriverConfig - ===============================================================
+
+10:17:06 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:17:06 INFO : InitDriver - ===============================================================
+10:17:06 INFO : InitDriver - |          Environment : ft
+10:17:06 INFO : InitDriver - |          Operating System : Windows 10
+10:17:06 INFO : InitDriver - |          Browser: chrome
+10:17:06 INFO : InitDriver - |          Browser config file: chrome.properties
+10:17:06 INFO : InitDriver - ===============================================================
+
+10:17:06 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:17:06 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:17:06 INFO : WebDriverConfig - Browser is: chrome
+10:17:06 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:17:06 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:17:09 INFO : WebDriverConfig - ===============================================================
+10:17:09 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:17:09 INFO : WebDriverConfig - ===============================================================
+
+10:17:18 INFO : WebLocator - click on Contact
+10:17:19 INFO : WebLocatorDriverExecutor - Set value(@placeholder=Name): 'Ruben'
+10:17:19 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:17:19 INFO : WebDriverConfig - ===============================================================
+10:17:19 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:17:19 INFO : WebDriverConfig - ===============================================================
+10:17:20 DEBUG: WebDriverConfig - ===============================================================
+10:17:20 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:17:20 DEBUG: WebDriverConfig - ===============================================================
+
+10:17:46 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:17:46 INFO : InitDriver - ===============================================================
+10:17:46 INFO : InitDriver - |          Environment : ft
+10:17:46 INFO : InitDriver - |          Operating System : Windows 10
+10:17:46 INFO : InitDriver - |          Browser: chrome
+10:17:46 INFO : InitDriver - |          Browser config file: chrome.properties
+10:17:46 INFO : InitDriver - ===============================================================
+
+10:17:46 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:17:46 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:17:46 INFO : WebDriverConfig - Browser is: chrome
+10:17:46 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:17:46 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:17:49 INFO : WebDriverConfig - ===============================================================
+10:17:49 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:17:49 INFO : WebDriverConfig - ===============================================================
+
+10:18:00 ERROR: WebLocatorDriverExecutor - WebDriverException in doClick: Contact
+10:18:00 WARN : Hooks - "Register Successful" scenario has failed! Screenshot embedded in the report.
+10:18:01 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:18:01 INFO : WebDriverConfig - ===============================================================
+10:18:01 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:18:01 INFO : WebDriverConfig - ===============================================================
+10:18:02 DEBUG: WebDriverConfig - ===============================================================
+10:18:02 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:18:02 DEBUG: WebDriverConfig - ===============================================================
+
+10:18:15 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:18:15 INFO : InitDriver - ===============================================================
+10:18:15 INFO : InitDriver - |          Environment : ft
+10:18:15 INFO : InitDriver - |          Operating System : Windows 10
+10:18:15 INFO : InitDriver - |          Browser: chrome
+10:18:15 INFO : InitDriver - |          Browser config file: chrome.properties
+10:18:15 INFO : InitDriver - ===============================================================
+
+10:18:15 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:18:15 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:18:15 INFO : WebDriverConfig - Browser is: chrome
+10:18:15 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:18:15 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:18:18 INFO : WebDriverConfig - ===============================================================
+10:18:18 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:18:18 INFO : WebDriverConfig - ===============================================================
+
+10:18:26 INFO : WebLocator - click on Contact
+10:18:26 INFO : WebLocatorDriverExecutor - Set value(@placeholder=Name): 'Ruben'
+10:18:36 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:18:36 INFO : WebDriverConfig - ===============================================================
+10:18:36 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:18:36 INFO : WebDriverConfig - ===============================================================
+10:18:38 DEBUG: WebDriverConfig - ===============================================================
+10:18:38 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:18:38 DEBUG: WebDriverConfig - ===============================================================
+
+10:21:49 DEBUG: Hooks - ***** START of Scenario: Register Successful *****
+10:21:49 INFO : InitDriver - ===============================================================
+10:21:49 INFO : InitDriver - |          Environment : ft
+10:21:49 INFO : InitDriver - |          Operating System : Windows 10
+10:21:49 INFO : InitDriver - |          Browser: chrome
+10:21:49 INFO : InitDriver - |          Browser config file: chrome.properties
+10:21:49 INFO : InitDriver - ===============================================================
+
+10:21:49 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:21:49 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:21:49 INFO : WebDriverConfig - Browser is: chrome
+10:21:49 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:21:49 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:21:51 INFO : WebDriverConfig - ===============================================================
+10:21:51 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:21:51 INFO : WebDriverConfig - ===============================================================
+
+10:22:01 INFO : WebLocator - click on Contact
+10:22:01 INFO : WebLocatorDriverExecutor - Set value(@placeholder=Name): 'Ruben'
+10:22:01 INFO : WebLocatorDriverExecutor - Set value(@placeholder=Email): 'testare1984@gmail.com'
+10:22:11 DEBUG: Hooks - ***** END of Scenario: Register Successful *****
+10:22:11 INFO : WebDriverConfig - ===============================================================
+10:22:11 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:22:11 INFO : WebDriverConfig - ===============================================================
+10:22:13 DEBUG: WebDriverConfig - ===============================================================
+10:22:13 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:22:13 DEBUG: WebDriverConfig - ===============================================================
+
+10:39:40 DEBUG: Hooks - ***** START of Scenario: Contact successfully *****
+10:39:40 INFO : InitDriver - ===============================================================
+10:39:40 INFO : InitDriver - |          Environment : ft
+10:39:40 INFO : InitDriver - |          Operating System : Windows 10
+10:39:40 INFO : InitDriver - |          Browser: chrome
+10:39:40 INFO : InitDriver - |          Browser config file: chrome.properties
+10:39:40 INFO : InitDriver - ===============================================================
+
+10:39:40 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:39:40 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:39:40 INFO : WebDriverConfig - Browser is: chrome
+10:39:40 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:39:40 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:39:43 INFO : WebDriverConfig - ===============================================================
+10:39:43 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:39:43 INFO : WebDriverConfig - ===============================================================
+
+10:39:55 ERROR: WebLocatorDriverExecutor - WebDriverException in doClick: Contact
+10:39:55 WARN : Hooks - "Contact successfully" scenario has failed! Screenshot embedded in the report.
+10:39:55 DEBUG: Hooks - ***** END of Scenario: Contact successfully *****
+10:39:55 INFO : WebDriverConfig - ===============================================================
+10:39:55 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:39:55 INFO : WebDriverConfig - ===============================================================
+10:39:57 DEBUG: WebDriverConfig - ===============================================================
+10:39:57 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:39:57 DEBUG: WebDriverConfig - ===============================================================
+
+10:40:24 DEBUG: Hooks - ***** START of Scenario: Contact successfully *****
+10:40:24 INFO : InitDriver - ===============================================================
+10:40:24 INFO : InitDriver - |          Environment : ft
+10:40:24 INFO : InitDriver - |          Operating System : Windows 10
+10:40:24 INFO : InitDriver - |          Browser: chrome
+10:40:24 INFO : InitDriver - |          Browser config file: chrome.properties
+10:40:24 INFO : InitDriver - ===============================================================
+
+10:40:25 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:40:25 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:40:25 INFO : WebDriverConfig - Browser is: chrome
+10:40:25 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:40:25 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:40:27 INFO : WebDriverConfig - ===============================================================
+10:40:27 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:40:27 INFO : WebDriverConfig - ===============================================================
+
+10:40:37 ERROR: WebLocatorDriverExecutor - WebDriverException in doClick: Contact
+10:40:37 WARN : Hooks - "Contact successfully" scenario has failed! Screenshot embedded in the report.
+10:40:39 DEBUG: Hooks - ***** END of Scenario: Contact successfully *****
+10:40:39 INFO : WebDriverConfig - ===============================================================
+10:40:39 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:40:39 INFO : WebDriverConfig - ===============================================================
+10:40:41 DEBUG: WebDriverConfig - ===============================================================
+10:40:41 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:40:41 DEBUG: WebDriverConfig - ===============================================================
+
+10:40:47 DEBUG: Hooks - ***** START of Scenario: Contact successfully *****
+10:40:47 INFO : InitDriver - ===============================================================
+10:40:47 INFO : InitDriver - |          Environment : ft
+10:40:47 INFO : InitDriver - |          Operating System : Windows 10
+10:40:47 INFO : InitDriver - |          Browser: chrome
+10:40:47 INFO : InitDriver - |          Browser config file: chrome.properties
+10:40:47 INFO : InitDriver - ===============================================================
+
+10:40:47 DEBUG: WebDriverConfig - File: chrome.properties exists
+10:40:47 INFO : WebLocatorConfig - 
+	weblocator.log.containers=false
+	weblocator.log.useClassName=false
+	weblocator.log.xPath=true
+	weblocator.log.retryException=true
+	weblocator.log.suggestions=true
+	weblocator.highlight=true
+	weblocator.generateCssSelector=false
+	weblocator.defaults.renderMillis=5000
+	weblocator.defaults.searchType=contains
+	weblocator.defaults.labelPosition=/parent::*/following-sibling::div[1]//
+	weblocator.min.chars.toType=-1
+	driver.autoClose=true
+	driver.implicitlyWait=150
+	upload.exe.path=src\test\resources\upload\upload.exe
+	weblocator.log.logXPathEnabled=true
+
+10:40:47 INFO : WebDriverConfig - Browser is: chrome
+10:40:47 INFO : WebDriverConfig - 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:40:47 INFO : ChromeConfigReader - The properties was load with success: 
+	browser=chrome
+	browser.driver.path=src\test\resources\drivers\chromedriver.exe
+	browser.download.dir=src/test/resources/downloads/
+	options.arguments=--lang=en --allow-running-insecure-content --enable-logging --v=1 --test-type
+	options.experimental.profile.default_content_setting_values.automatic_downloads=1
+	options.experimental.profile.content_settings.pattern_pairs.*.multiple-automatic-downloads=1
+	options.experimental.profile.default_content_settings.popups=0
+	options.experimental.download.prompt_for_download=1
+
+10:40:49 INFO : WebDriverConfig - ===============================================================
+10:40:49 INFO : WebDriverConfig - |          Open Selenium Web Driver 
+10:40:49 INFO : WebDriverConfig - ===============================================================
+
+10:40:57 INFO : WebLocator - click on Contact
+10:40:58 INFO : WebLocatorDriverExecutor - Set value(@placeholder=Name): 'Ruben'
+10:40:58 INFO : WebLocatorDriverExecutor - Set value(@placeholder=Email): 'testare1984@gmail.com'
+10:41:03 WARN : WebLocatorDriverExecutor - Element not found after 5000 millis; @placeholder=Message
+10:41:03 DEBUG: WebLocatorDriverExecutor - 	$x("//input[@placeholder='Message']")
+10:41:03 DEBUG: WebLocatorSuggestions - getSuggestion >> enter
+10:41:13 DEBUG: WebLocatorSuggestions - No suggestions found for @placeholder=Message
+10:41:13 DEBUG: WebLocatorSuggestions - getSuggestion << exit
+10:41:13 WARN : Hooks - "Contact successfully" scenario has failed! Screenshot embedded in the report.
+10:41:14 DEBUG: Hooks - ***** END of Scenario: Contact successfully *****
+10:41:14 INFO : WebDriverConfig - ===============================================================
+10:41:14 INFO : WebDriverConfig - |          Stopping driver (closing browser)                   |
+10:41:14 INFO : WebDriverConfig - ===============================================================
+10:41:15 DEBUG: WebDriverConfig - ===============================================================
+10:41:15 DEBUG: WebDriverConfig - |         Driver stopped (browser closed)                     |
+10:41:15 DEBUG: WebDriverConfig - ===============================================================
+
