@@ -6,7 +6,7 @@ Feature:SeniorSoftware
     And I click on link with text Latest  Vacancies
     And  I wait 1 seconds
     And I click on link with text Senior Software Developer in Test
-    And I wait 1 seconds
-    And I fill in all fields for Apply for this job
-    And I wait 10 seconds
+    And I fill in the fields for applying for a job "John McDonald" "testare1984@gmail.com" "054544534543" ""
+    And I choose file for attach your cv
+    And I wait 20 seconds
 
